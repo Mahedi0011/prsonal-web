@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    background-image: url(img/header-bg.png);
+    height: 700px;
+ 
+    
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    
+}
+.font-color{
+    color: rgb(38, 27, 133);
+}
+.half-width img{
+    width: 100%;
+}
+.half-width2{
+    margin-top: 10%;
+}
+.Hire-btn{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,rgb(55, 55, 165),rgb(84, 19, 104));
+    color: white;
+}
+.m-letter{
+    text-align: center;
+    height: 100px;
+}
+.l-img{
+    height: 400px;
+    background-image: url(img/latest-work-bg.png);
+
+}
+.all-img img{
+    width: 28%;
+    padding: 2%;
+    margin: 2%;
+}
+.all-img{
+    text-align: center;
+}
+.hero{
+   width: 500px; 
+  position: relative;
+  left: 30%;
+  text-align: center;
+ }
+
+ .p-hero{
+    height: 300px;
+ }
+
+ footer{
+    text-align: center;
+    margin-bottom: 10px;
+ }
